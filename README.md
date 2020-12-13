@@ -1,3 +1,8 @@
+!NOTA
+
+para funcionar, se debe crear un proyecto en Firebase, y hacer las configuraciones correspondientes, se eliminaron las credenciales del proyecto por motivos de seguridad.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
